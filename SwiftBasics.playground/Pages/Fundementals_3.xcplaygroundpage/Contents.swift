@@ -26,6 +26,8 @@ let indexOf42 = Int(array.firstIndex(of: 42)!)
 array.remove(at: indexOf42)
 print("We found the answer to the Ultimate Question of Life, the Universe, and Everything at index \(indexOf42)")
 
+
+//function to avoid repeating the code ;D!
 func generateRandom() -> Int{
     return Int(arc4random_uniform(UInt32(array.count-1)))
 }
