@@ -6,5 +6,6 @@
         <page name='Fundementals_3'/>
         <page name='Suits'/>
         <page name='HeadsorTails'/>
+        <page name='Palindrome'/>
     </pages>
 </playground>
