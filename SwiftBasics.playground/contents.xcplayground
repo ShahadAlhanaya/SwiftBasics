@@ -10,5 +10,7 @@
         <page name='OOP'/>
         <page name='GraphicsPrimitives'/>
         <page name='DeckofCards'/>
+        <page name='Animals'/>
+        <page name='Machi'/>
     </pages>
 </playground>
